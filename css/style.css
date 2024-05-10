@@ -138,16 +138,17 @@ body {
   }
   
   /* Projetos */
-#video1{
+ #video1{
   margin-right: 150px;
  } 
  .video-card {
   background-color: #000; /* Cor de fundo preta */
   color: #fff; /* Cor do ícone */
-  text-align: center;
+  text-align: center;  
   padding: 20px;
   border-radius: 8px; /* Borda arredondada, ajuste conforme necessário */
 }
+
 .container-fluid {
   padding: 0;
 }
